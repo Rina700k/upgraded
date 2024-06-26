@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: rin700k/upgd:v1
+          tags: rin700k/upgd:v2
